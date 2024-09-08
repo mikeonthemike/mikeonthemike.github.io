@@ -69,9 +69,9 @@ main {
 .hero {
     background: linear-gradient(135deg, #007bff, #00bfff);
     color: white;
-    padding: 4rem 2rem;
-    border-radius: 10px;
-    margin-bottom: 4rem;
+    padding: 2rem 1rem;
+    border-radius: 4px;
+    margin-bottom: 2rem;
 }
 
 .hero h3 {
